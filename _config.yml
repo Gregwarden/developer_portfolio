@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "https://gregwarden/github.io/developer_portfolio/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://gregwarden.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
