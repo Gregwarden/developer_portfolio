@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/developer-portfolio" # the subpath of your site, e.g. /blog/
- url: "http://Gregwarden.github.io" # the base hostname & protocol for your site
+baseurl: "/developer_portfolio" # the subpath of your site, e.g. /blog/
+ url: "http://gregwarden.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
